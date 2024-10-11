@@ -1,0 +1,16 @@
+.footer {
+    background-color: gainsboro;
+
+}
+.list-group-flush {
+    border: none;
+}
+.list-group-item1{
+    border: none;
+    padding: 2%;
+}
+.list-group-item-final{
+    display: flex;
+    justify-content: end;
+
+}

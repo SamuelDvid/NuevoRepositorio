@@ -14,4 +14,19 @@ justify-content: space-evenly;
     height: 150px;
     width: 150px;
     background-color: black;
+}.footer {
+    background-color: gainsboro;
+
+}
+.list-group-flush {
+    border: none;
+}
+.list-group-item1{
+    border: none;
+    padding: 2%;
+}
+.list-group-item-final{
+    display: flex;
+    justify-content: end;
+
 }
